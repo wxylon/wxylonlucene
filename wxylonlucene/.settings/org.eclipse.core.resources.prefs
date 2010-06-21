@@ -1,0 +1,8 @@
+#Sat Nov 14 13:40:16 CST 2009
+eclipse.preferences.version=1
+encoding//src/org/apache/lucene/document/Document.java=UTF-8
+encoding//src/org/apache/lucene/document/Field.java=UTF-8
+encoding//src/org/apache/lucene/index/IndexWriter.java=UTF-8
+encoding//src/org/apache/lucene/store/FSDirectory.java=UTF-8
+encoding//src/test/Test.java=UTF-8
+encoding/<project>=UTF-8
