@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wxylonlucene"
+  id="myeclipse.1253684030031"
+  context-root="/lucene"
+  j2ee-spec="5.0"
+  archive="wxylonlucene.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
